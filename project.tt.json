@@ -1,0 +1,9 @@
+{
+  "miniprogramRoot": "./",
+  "projectname": "well-mini-taro-react",
+  "appid": "touristappid",
+  "setting": {
+    "es6": false,
+    "minified": false
+  }
+}
